@@ -10,7 +10,7 @@ body{
 header{
 	height: 200px;
 	background-color: #ffffff;
-	background-image: url(images/flywheel.jpg);
+	background-image: url(flywheel.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	padding: 2px;
